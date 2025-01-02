@@ -19,17 +19,23 @@ The basic structure of an HTML document contains the few mandatory tags, that mu
 
 Here is the basic structure of an HTML document −
 
-Open Compiler
-<!DOCTYPE html>
-<html>
-<head>
-   <title>Page title</title>
-</head>
-<body>
-   <h1>Webpage's Heading</h1>
-   <p>Content (Your first paragraph).</p>
-</body>
-</html>
+
+                                                                                
+                                                             Open Compiler
+                                                        <!DOCTYPE html>
+                                                           <html>
+                                                           <head>
+                                                        <title>Page title</title>
+                                                          </head>
+                                                               <body>
+                                                        <h1>Webpage's Heading</h1>
+                                                  <p>Content (Your first paragraph).</p>
+                                                                </body>
+                                                                </html>
+
+
+
+
 
 
 
@@ -66,17 +72,17 @@ Below is the HTML code to display Hello World on the webpage in a paragraph −
 
 
 
-Open Compiler
-<!DOCTYPE html>
-<html>
-<head>
-   <title>Hello World Example by TutorialsPoint</title>
-</head>
-<body>
-   <h1>Hello, World!</h1>
-</body>
-</html>
-</pre>
+                                                       Open Compiler
+                                                      <!DOCTYPE html>
+                                                           <html>
+                                                             <head>
+                                              <title>Hello World Example by TutorialsPoint</title>
+                                                               </head>
+                                                                 <body>
+                                                          <h1>Hello, World!</h1>
+                                                             </body>
+                                                                 </html>
+                                                               </pre>
 The above example will display "Hello, World!" on the browser inside top-level heading (h1).
 
 Comments in HTML
