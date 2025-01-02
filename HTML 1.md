@@ -6,6 +6,7 @@
 
 HTML is a standard markup language, which stands for Hyper Text Markup Language. It is widely used language to create webpages. HTML invented by Tim Berners-Lee in late 1991, but it's first version "HTML 1.0" was released in 1993, and "HTML 2.0" was the first standard HTML specification, which was published in 1995.
 
+
 This HTML tutorial covers everything from basic HTML fundamental concepts and tags to advanced techniques, such as forms, modal boxes, multimedia, and HTML5. This tutorial is designed to help both beginners and experienced designers become experts in building dynamic and responsive websites.
 
 What is HTML?
