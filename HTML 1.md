@@ -109,6 +109,12 @@ Open Compiler
     <p>Hello World</p>
 </body>
 </html>
+
+
+
+
+
+
 Creating an HTML Document
 An HTML document is a file containing HTML code with the ".htm" or ".html" extension. To create an HTML document, you need a text editor. And, to display it, you need a Web browser.
 
